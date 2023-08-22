@@ -27,6 +27,7 @@ public class seventwo {
         else if (number > 100) {
             System.out.println("Incredible!");
         }
+        scanner.close();
 
 
     }

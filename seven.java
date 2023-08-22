@@ -8,5 +8,6 @@ public class seven {
         if (number >= 1984) { // Conditional
             System.out.println("Orwell");
         }
+        scanner.close();
     }
 }
