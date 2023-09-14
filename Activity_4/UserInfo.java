@@ -1,4 +1,4 @@
-package Project_4;
+package Activity_4;
 
 /**
  * Program that is used by the driver program.

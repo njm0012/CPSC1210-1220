@@ -1,4 +1,4 @@
-package Project_4;
+package Activity_4;
 /**
  * Driver program that utilizes the class UserInfo.
  * 
