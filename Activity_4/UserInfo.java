@@ -21,6 +21,10 @@ public class UserInfo {
     private static final int ONLINE = 1;
 
     // constructors
+    /**
+     * @param firstNameIn
+     * @param lastNameIn
+     */
     public UserInfo(String firstNameIn, String lastNameIn) {
         firstName = firstNameIn;
         lastName = lastNameIn;
@@ -50,6 +54,7 @@ public class UserInfo {
 
         return output;
     }
+    
     /**
      * @param locationIn to replace old location.
      */
@@ -71,6 +76,7 @@ public class UserInfo {
         return isSet;
 
     }
+
     /**
      * @return age
      * @param args Command line arguments - not used.
