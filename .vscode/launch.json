@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "UserInfoDriver",
+            "request": "launch",
+            "mainClass": "Activity_4.UserInfoDriver",
+            "projectName": "Projects_93d5007c"
+        },
+        {
+            "type": "java",
+            "name": "EllipsoidApp",
+            "request": "launch",
+            "mainClass": "EllipsoidApp",
+            "projectName": "Projects_93d5007c"
+        },
+        {
+            "type": "java",
+            "name": "EllipsoidListApp",
+            "request": "launch",
+            "mainClass": "EllipsoidListApp",
+            "projectName": "Projects_93d5007c"
+        },
+        {
+            "type": "java",
+            "name": "EllipsoidListMenuApp",
+            "request": "launch",
+            "mainClass": "EllipsoidListMenuApp",
+            "projectName": "Projects_93d5007c"
+        },
+        {
+            "type": "java",
+            "name": "Event",
+            "request": "launch",
+            "mainClass": "Event",
+            "projectName": "Projects_93d5007c"
+        },
+        {
+            "type": "java",
+            "name": "Expression",
+            "request": "launch",
+            "mainClass": "Expression",
+            "projectName": "Projects_93d5007c"
+        },
+        {
+            "type": "java",
+            "name": "JLetter",
+            "request": "launch",
+            "mainClass": "JLetter",
+            "projectName": "Projects_93d5007c"
+        },
+        {
+            "type": "java",
+            "name": "MyLifeGoals",
+            "request": "launch",
+            "mainClass": "MyLifeGoals",
+            "projectName": "Projects_93d5007c"
+        },
+        {
+            "type": "java",
+            "name": "Solver",
+            "request": "launch",
+            "mainClass": "Solver",
+            "projectName": "Projects_93d5007c"
+        },
+        {
+            "type": "java",
+            "name": "SquareUnits",
+            "request": "launch",
+            "mainClass": "SquareUnits",
+            "projectName": "Projects_93d5007c"
+        },
+        {
+            "type": "java",
+            "name": "TemperatureInfo",
+            "request": "launch",
+            "mainClass": "TemperatureInfo",
+            "projectName": "Projects_93d5007c"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Projects_93d5007c"
+        },
+        {
+            "type": "java",
+            "name": "logic",
+            "request": "launch",
+            "mainClass": "logic",
+            "projectName": "Projects_93d5007c"
+        },
+        {
+            "type": "java",
+            "name": "seven",
+            "request": "launch",
+            "mainClass": "seven",
+            "projectName": "Projects_93d5007c"
+        },
+        {
+            "type": "java",
+            "name": "seventwo",
+            "request": "launch",
+            "mainClass": "seventwo",
+            "projectName": "Projects_93d5007c"
+        }
+    ]
+}
