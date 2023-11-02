@@ -98,7 +98,7 @@ public class Scores {
      * Method.
      * @return return String of Array elements in reverse
      */
-    public String toStringinReverse() {
+    public String toStringInReverse() {
         
         String result = "";
         
