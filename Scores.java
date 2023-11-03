@@ -102,7 +102,7 @@ public class Scores {
         
         String result = "";
         
-        for (int i = numbers.length - 1; i > 0; i--) {
+        for (int i = numbers.length - 1; i >= 0; i--) {
             result += numbers[i] + "\t";
         }
         return result;
