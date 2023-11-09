@@ -1,5 +1,16 @@
+/**
+ * Driver Program 
+ * 
+ * Activity 4
+ * @author Nick Mitchell - CPSC1220
+ * @version 11/08/23
+ */
 public class InventoryApp {
     
+    /**
+     * Method.
+     * @param args - command line not used
+     */
     public static void main(String[] args) {
         InventoryItem.setTaxRate(0.08);
         
