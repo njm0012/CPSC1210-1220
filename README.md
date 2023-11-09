@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://media.tenor.com/cI3eAVLXj48AAAAC/hello-world.gif"/>
+<img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif"/>
 </div>
 
 
@@ -8,7 +8,7 @@
 <p>
 </p>
 
-> Project page featuring all of my java projects during my CompSci coursework.
+> Project page featuring all of my java projects during my Intro to CS 1 & 2 coursework.
 
 ### 🏠 [Homepage](https://github.com/njm0012/Projects)
 
