@@ -7,7 +7,7 @@ import java.util.ArrayList;
  * Creating an EllipsoidListApp class.
  *
  * @author Nick Mitchell - CPSC 1210
- * @version 09/21/2023
+ * @version 09/22/2023
  */
 public class EllipsoidListApp {
 

@@ -73,13 +73,13 @@ public class EllipsoidListMenuApp {
                   String labelCheck = userInput.nextLine();
                
                   if (myEList.findEllipsoid(labelCheck) == null) {
-                     System.out.println("\"" + labelCheck + "\" not found\n");
+                     System.out.println("\t\"" + labelCheck + "\" not found\n");
                   }
                   else {
                      String returnValue = myEList.findEllipsoid(labelCheck).getLabel();
                   
                      myEList.deleteEllipsoid(labelCheck);
-                     System.out.println("\"" + returnValue + "\" deleted\n");
+                     System.out.println("\t\"" + returnValue + "\" deleted\n");
                   }
                   break;
                case 'F' :
@@ -108,11 +108,11 @@ public class EllipsoidListMenuApp {
                   Double eSideC = Double.parseDouble(userInput.nextLine());
                
                   if (myEList.findEllipsoid(eLabel) == null) {
-                     System.out.println("\"" + eLabel + "\" not found\n");
+                     System.out.println("\t\"" + eLabel + "\" not found\n");
                   }
                   else {
                      myEList.editEllipsoid(eLabel, eSideA, eSideB, eSideC);
-                     System.out.println("\"" + eLabel.substring(0, 1).toUpperCase() 
+                     System.out.println("\t\"" + eLabel.substring(0, 1).toUpperCase() 
                         + eLabel.substring(1) + "\" successfully edited\n");
                   }
                   break;
